@@ -5,7 +5,8 @@
 </p>
 
 ---
-
+![Sudoku Solver Screenshot](https://github.com/CodderPrince/SudokuSolverApp-/blob/main/Screenshot%202024-12-07%20144935.png)
+---
 <p align="center">
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+SudokuSolverApp!" alt="Welcome">
