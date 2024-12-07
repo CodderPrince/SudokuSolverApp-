@@ -163,3 +163,14 @@ You can reach out or follow my work through the following platforms:
     style="border-radius: 150%; height: 70px; width: 190px;">
   </a>
 </div>
+
+
+
+---
+
+<h1>After Complete Solution</h1>
+
+
+
+![Sudoku Solver Screenshot](https://github.com/CodderPrince/SudokuSolverApp-/blob/main/Screenshot%202024-12-07%20145026.png)
+---
